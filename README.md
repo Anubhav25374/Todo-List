@@ -19,3 +19,6 @@ Features:
 Persistent Storage - Todos save automatically
 Clean Interface - Modern design with empty state illustration
 Responsive - Works well on all screen sizes
+
+# Live Link
+https://2domanager.netlify.app/
